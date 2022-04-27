@@ -1,0 +1,3 @@
+[submodule "ideal-succotash"]
+	path = ideal-succotash
+	url = git@github.com:cis-getnet-gedefa/ideal-succotash.git
